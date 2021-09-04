@@ -8,7 +8,7 @@ Skills to gain: Organizaitonal Culture, Career Development, Strategic thinking, 
 
 
 - [ ] Course 1: Foundations of Project Management
-> - [ ] Embarking on a career in project management
+> - [x] Embarking on a career in project management
 > - [ ] Becoming an effecive project manager
 > - [ ] The project managemen life cycle and methodologies
 > - [ ] Organizational structure and culture
